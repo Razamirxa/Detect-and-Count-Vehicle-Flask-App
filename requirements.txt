@@ -1,0 +1,7 @@
+opencv-python-headless==4.8.1.78
+numpy>=1.19.3
+Flask>=1.1.1
+Pillow>=8.0.1
+gunicorn
+torch
+ultralytics
